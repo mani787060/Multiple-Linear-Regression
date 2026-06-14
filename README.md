@@ -86,12 +86,6 @@ Unlike Simple Linear Regression, which uses a single predictor, Multiple Linear 
 
 ---
 
-## 🏁 Conclusion
-
-Multiple Linear Regression is a powerful extension of Simple Linear Regression that allows us to model relationships between several independent variables and a target variable. Understanding MLR is essential for building accurate predictive models and performing data-driven analysis.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -100,3 +94,10 @@ Multiple Linear Regression is a powerful extension of Simple Linear Regression t
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Multiple Linear Regression is a powerful extension of Simple Linear Regression that allows us to model relationships between several independent variables and a target variable. Understanding MLR is essential for building accurate predictive models and performing data-driven analysis.
+
